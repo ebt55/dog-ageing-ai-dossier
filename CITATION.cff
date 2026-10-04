@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use or build on this dossier, please cite it as below. Primary sources are cited inside each file."
+title: "Dog ageing × AI: a research dossier on AlphaFold, IBM MAMMAL, canine foundation models, and why dogs age fast"
+type: dataset
+authors:
+  - given-names: "Ebin Babu"
+    family-names: "Thomas"
+    alias: "ebt55"
+version: "1.0.0"
+repository-code: "https://github.com/ebt55/dog-ageing-ai-dossier"
+date-released: "2026-10-04"
+license: CC-BY-4.0
+keywords:
+  - dog ageing
+  - canine longevity
+  - AlphaFold
+  - MAMMAL
+  - foundation models
+  - geroscience
+  - wolves
+  - IGF-1
+abstract: >-
+  A source-cited, cross-model-verified research dossier covering AlphaFold
+  (history, how it works, how to use it, dog/wolf coverage), IBM's MAMMAL
+  biomedical foundation model (paper deep dive and a fact-check of a popular
+  video about it), the landscape of AI models and organisations relevant to
+  dogs and wolves, the biology of why dogs age faster than humans (and why
+  large breeds age fastest), longevity interventions and gene editing in dogs,
+  and a ranked set of research paths for understanding and changing dog ageing.
+  Produced with AI research agents (Claude Opus 5.5 and Claude Fable 5.1) and
+  audited claim-by-claim by a second model family; not peer-reviewed.

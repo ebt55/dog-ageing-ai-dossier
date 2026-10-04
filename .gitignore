@@ -1,0 +1,16 @@
+# Third-party video transcripts are not redistributed (creator's copyright)
+mammal_video_transcript/
+*transcript_clean*
+*.srt
+*whisper*.json
+
+# Local working notes
+RESUME_STATUS.md
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
