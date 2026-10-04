@@ -97,8 +97,3 @@ Every source is cited in the file that uses it. All credits and resource links a
 - the YouTube video;
 - AlphaFold weights, which are under non-commercial terms;
 - the Dog Aging Project data, which are under a data-use agreement.
-
-## Suggested GitHub topics
-
-`dog-aging` `canine-longevity` `geroscience` `alphafold` `protein-structure` `foundation-models` `bioinformatics` `veterinary-science` `wolves` `epigenetic-clock` `literature-review`
-
